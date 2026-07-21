@@ -1,3 +1,15 @@
+#Admin_Application_Launcher
+#Github
+#Public
+#Project
+
+[[AdminAppLauncher.ps1]]
+[[AdminAppLaunched.xml]]
+[[appconfig.json]]
+[[StartAAL.bat]]
+
+
+
 # Admin Application Launcher (PowerShell WinForms)
 
 A simple Windows desktop utility that lets administrators curate and launch multiple tools with elevation, optional launch delays, grouping, and quick filtering.
